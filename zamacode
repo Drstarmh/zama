@@ -1,0 +1,5 @@
+cd <your-preferred-location>
+git clone <url-to-your-new-repo>
+
+# Navigate to the root of your new FHEVM Hardhat project
+cd <your-new-repo-name>
